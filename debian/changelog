@@ -1,5 +1,5 @@
-spooftooph (0.5.2-1) unstable; urgency=low
+spooftooph (0.5.2-1kali0) kali; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release 
 
  -- Devon Kearns <dookie@kali.org>  Thu, 27 Dec 2012 07:38:50 -0700
