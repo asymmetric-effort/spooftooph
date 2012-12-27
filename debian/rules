@@ -11,6 +11,7 @@
 
 %:
 	dh $@ 
+override_dh_auto_clean:
 override_dh_auto_install:
 	dh_installdirs
 	install spooftooph $(CURDIR)/debian/spooftooph/usr/bin/
