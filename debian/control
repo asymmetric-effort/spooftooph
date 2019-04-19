@@ -5,8 +5,8 @@ Maintainer: Kali Developers <devel@kali.org>
 Build-Depends: debhelper (>= 8.0.0), libncurses5-dev, libbluetooth-dev
 Standards-Version: 3.9.3
 Homepage: http://www.hackfromacave.com/projects/spooftooph.html
-Vcs-Git: ssh://git@git.kali.org/packages/spooftooph.git
-Vcs-Browser: http://git.kali.org/gitweb/?p=packages/spooftooph.git;a=summary
+Vcs-Git: https://gitlab.com/kalilinux/packages/spooftooph.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/spooftooph
 
 Package: spooftooph
 Architecture: any
